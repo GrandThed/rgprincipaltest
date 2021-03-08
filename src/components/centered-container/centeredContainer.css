@@ -1,0 +1,11 @@
+.cc-main{
+    min-height: calc(100vh - 83.59px);
+}
+
+.cc-inner{
+    box-shadow: var(--standar-shadow);
+    background-color: white;
+    padding: 30px;
+    border-radius: 7px;
+    margin: 20px;
+}

@@ -1,0 +1,40 @@
+
+
+.head-main{
+    display: flex;
+    min-width: 100%;
+    justify-content: space-between;
+    background-color: var(--primary-gray-background);;
+    align-items: center;
+    box-shadow: var(--standar-shadow);
+}
+
+.head-logo{
+    margin: 10px;
+    width: 100px;
+}
+
+
+.head-nav-ol{
+    list-style: none;
+    display: flex;
+    margin: 0 20px 0 0;
+}
+
+.head-nav-li{
+    padding: 0 10px;
+}
+
+.head-nav-link{
+    color: unset;
+    text-decoration: none;
+}
+
+.head-nav-btn{
+    background-color: unset;
+    border: unset;
+    font-size: unset;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
